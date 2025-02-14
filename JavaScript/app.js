@@ -17,6 +17,9 @@ console.log(sentence);
 let quote = "He said that \"Hi, my name is Giorgi. Today is February fourteenth—a perfect day for gaming.\"";
 console.log(quote);
 
+let heSaid = `Hi, my name is Giorgi, Today is february fourteenth a perfect day for Gaming`;
+console.log(heSaid);
+
 
 
 ////////////////////////////////
